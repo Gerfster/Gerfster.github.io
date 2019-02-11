@@ -1,9 +1,9 @@
 ## Welcome to GitHub Pages
 
-### This is my **first** attempt at using GitHub Pages
+### This is my first attempt at using GitHub Pages
 
 I have used GitHub for other classes *but* I've yet to use this feature for anything.
-It seems like there could be many useful features for GitHub Pages such as:
+It seems like there could be **many useful** features for GitHub Pages such as:
 * Creating a personalized website easily
 * Storing all your repos in a nicer manner
 * Managing files and the like
